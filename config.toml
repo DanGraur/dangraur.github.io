@@ -29,10 +29,6 @@ googleAnalytics = ""  # add your tracking id
     icon = "fab fa-github-square"
     title = "GitHub"
     url = "https://github.com/DanGraur"
-  #[[params.socialIcons]]
-    #icon = "fas fa-envelope"
-    #title = "E-mail"
-    #url = "mailto:dan.graur@inf.ethz.com"
 
 [permalinks]
   "/" = "/:filename"
@@ -44,7 +40,8 @@ googleAnalytics = ""  # add your tracking id
     weight = 1
   [[menu.main]]
     name = "Resume"
-    url = "/CV_Graur_Dan.pdf"
+    url = "/resume.pdf"
+    weight = 2
   [[menu.main]]
     name = "Contact"
     url = "/contact"
