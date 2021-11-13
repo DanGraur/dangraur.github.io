@@ -4,7 +4,7 @@ title = "Contact"
 
 ## Email
 
-<span class="baddirection">hc.zhte.fni@ruarg.nad</span> (copying the address won't work well).
+<span class="baddirection">moc.liame@redlohecalp</span> (copying the address won't work well).
 
 ---
 
