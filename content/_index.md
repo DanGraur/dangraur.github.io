@@ -22,6 +22,15 @@ This is a list of the research papers I've published so far:
 * Rellermeyer J. S., Khorasani S. O., **Graur D.** and Parthasarathy A., *[The Coming Age of Pervasive Data Processing](https://ieeexplore.ieee.org/abstract/document/8790842)*, 2019, 18th International Symposium on Parallel and Distributed Computing (ISPDC), Amsterdam, 2019
 * **Graur D.**, Maris R. A., Potolea R., Dinsoreanu M. and Lemnaru C., *[Complex Localization in the Multiple Instance Learning Context](https://link.springer.com/chapter/10.1007/978-3-319-78680-3_7)*, 2018, New Frontiers in Mining Complex Patterns. Springer International Publishing, Cham, 93–106
 
+## Teaching
+
+During my time at ETH Zürich I've helped teach the following courses:
+
+* Big Data - HS'21
+* Cloud Computing Architecture - FS'21
+* Big Data - HS'20
+* Big Data for Engineers - FS'20
+
 ## Things I Like to Do
 
 Playing guitar is one of my biggest hobbies. I've started playing in middle-school and haven't given it up since, although I've had my on-and-off periods with it. I love endurance sports such as running, cycling and swimming, and I think one of the most beautiful things in life is hiking through the Swiss Alps and realizing how small we are. 
