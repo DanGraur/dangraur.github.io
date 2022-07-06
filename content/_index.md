@@ -15,7 +15,8 @@ During my PhD I interned in [Google Brain](https://research.google/teams/brain/)
 
 This is a list of the research papers I've published so far:
 
-* **Graur, D.**, Müller I., Proffitt M., Fourny G., Watts G. T., and Alonso G., *[Evaluating Query Languages and Systems for High-Energy Physics Data](https://arxiv.org/pdf/2104.12615.pdf)*, 2022, Proceedings of the VLDB Endowment (preprint)
+* **Graur, D.**, Aymon, D., Kluser, D., Albrici, T., Thekkath, C. and Klimovic, A., *[Cachew: Machine Learning Input Data Processing as a Service]*, 2022, Proceedings of the USENIX Annual Technical Conference (ATC) (preprint)
+* **Graur, D.**, Müller I., Proffitt M., Fourny G., Watts G. T., and Alonso G., *[Evaluating Query Languages and Systems for High-Energy Physics Data](https://arxiv.org/pdf/2104.12615.pdf)*, 2022, Proceedings of the VLDB Endowment
 * **Graur, D.**, Bruno, R. and Alonso, G., *[Specializing Generic Java Data Structures](https://dl.acm.org/doi/10.1145/3475738.3480718)*, 2021, 18th ACM International Conference on Managed Programming Languages & Runtimes
 * **Graur, D.**, Aymon, D., Thekkath, C. and Klimovic, A., *Machine Learning Input Data Processing as a Service*, 2021, EuroSys Doctoral Workshop 2021
 * **Graur, D.**, Bruno, R., Bischoff, J., Rieser, M., Scherr, W., Hoefler, T. and Alonso, G., *[Hermes: Enabling efficient large-scale simulation in MATSim](https://www.sciencedirect.com/science/article/pii/S1877050921007158)*, 2021, Procedia Computer Science, 184, pp.635-641
