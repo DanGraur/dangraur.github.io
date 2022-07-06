@@ -39,7 +39,7 @@ Playing guitar is one of my biggest hobbies. I've started playing in middle-scho
 
 ## Contact 
 
-Feel free to get in touch by sending me an email at <span class="baddirection">hc.zhte.fni@ruarg.nad</span> (copying the address won't work well). Otherwise, although due to the COVID pandemic I'm mostly working from home, you will find me at my office from time to time: 
+Feel free to get in touch by sending me an email at <span class="baddirection">hc.zhte.fni@ruarg.nad</span> (copying the address won't work well). Otherwise, you can reach me at the following address:
 
 > Dan Graur  
 > STF G 222  
