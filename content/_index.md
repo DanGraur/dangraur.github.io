@@ -27,6 +27,7 @@ This is a list of the research papers I've published so far:
 
 During my time at ETH Zürich I've helped teach the following courses:
 
+* Data Management Systems - HS'22
 * Information Retrieval - FS'22
 * Big Data - HS'21
 * Cloud Computing Architecture - FS'21
