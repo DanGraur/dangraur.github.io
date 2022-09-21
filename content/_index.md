@@ -6,10 +6,10 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpeg" alt="avatar">}}
 
-Hi and thanks for stopping by! My name is **Dan Graur**. I'm currently a 3rd year PhD Student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) as part of the [Systems Group](https://systems.ethz.ch/) where I have the good fortune of being supervised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Prof. Ana Klimovic](https://anakli.inf.ethz.ch/). My main research interests lie in *Systems for Machine Learning* and *Database and Data Analytics Systems*, two areas of Computer Science that I find both beautiful and fascinating.
+Hi and thanks for stopping by! My name is **Dan Graur**. I'm currently a 3rd year PhD Student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) as part of the [Systems Group](https://systems.ethz.ch/) where I have the good fortune of being supervised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Prof. Ana Klimovic](https://anakli.inf.ethz.ch/). My main research interests lie in *Systems for Machine Learning* and *Database and Data Analytics Systems*.
 
 
-During my PhD I interned in [Google Brain](https://research.google/teams/brain/) as part of the [Flax team](https://github.com/google/flax). Prior to the PhD, I obtained my MSc in Computer Science from [TU Delft](https://www.tudelft.nl/en/) and [ETH Zurich](https://ethz.ch/en.html). At TU Delft I had the pleasure of working with [Prof. Jan Rellermeyer](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/jan-rellermeyer) for my MSc thesis. During my time at TU Delft I worked as a Research Assistant as part of the [Tribler research team](https://github.com/Tribler/tribler). Prior to this, I obtained my BSc in Computer Science from the [Technical University of Cluj-Napoca](https://www.utcluj.ro/en/). 
+During my PhD I interned twice in Google: (1) in [Brain](https://research.google/teams/brain/) as part of the [Flax team](https://github.com/google/flax), and (2) in [TensorFlow](https://www.tensorflow.org/) as part of the [tf.Data team](https://www.tensorflow.org/guide/data). Prior to the PhD, I obtained my MSc in Computer Science from [TU Delft](https://www.tudelft.nl/en/) and [ETH Zurich](https://ethz.ch/en.html). At TU Delft I had the pleasure of working with [Prof. Jan Rellermeyer](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/jan-rellermeyer) for my MSc thesis. During my time at TU Delft I worked as a Research Assistant as part of the [Tribler research team](https://github.com/Tribler/tribler). Prior to this, I obtained my BSc in Computer Science from the [Technical University of Cluj-Napoca](https://www.utcluj.ro/en/). 
 
 ## Research
 
@@ -35,7 +35,7 @@ During my time at ETH Zürich I've helped teach the following courses:
 
 ## Things I Like to Do
 
-Playing guitar is one of my biggest hobbies. I've started playing in middle-school and haven't given it up since, although I've had my on-and-off periods with it. I love endurance sports such as running, cycling and swimming, and I think one of the most beautiful things in life is hiking through the Swiss Alps and realizing how small we are. 
+Playing guitar is one of my biggest hobbies. I've started playing in middle-school and haven't given it up since, although I've had my on-and-off periods with it. I also love endurance sports such as running, cycling and swimming.
 
 ## Contact 
 
