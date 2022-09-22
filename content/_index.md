@@ -23,6 +23,12 @@ This is a list of the research papers I've published so far:
 * Rellermeyer J. S., Khorasani S. O., **Graur D.** and Parthasarathy A., *[The Coming Age of Pervasive Data Processing](https://ieeexplore.ieee.org/abstract/document/8790842)*, 2019, 18th International Symposium on Parallel and Distributed Computing (ISPDC), Amsterdam, 2019
 * **Graur D.**, Maris R. A., Potolea R., Dinsoreanu M. and Lemnaru C., *[Complex Localization in the Multiple Instance Learning Context](https://link.springer.com/chapter/10.1007/978-3-319-78680-3_7)*, 2018, New Frontiers in Mining Complex Patterns. Springer International Publishing, Cham, 93–106
 
+## Other Contributions
+
+I've also helped develop and improve the *ADL Functionality Benchmarks Index*, a benchmark dedicated to bridging the gap between the High-Energy Physics and the Database communities in terms of Query Languages and Database Engines:
+
+* Proffitt M., Müller I., **Graur D.**, Adamec M., David P., Guiraud E., and Binet S., [iris-hep/adl-benchmarksindex: ADL Functionality Benchmarks Index](https://github.com/iris-hep/adl-benchmarks-index/). Version v0.1. 2021. DOI: [10.5281/zenodo.5131287](https://zenodo.org/record/5131287) 
+
 ## Teaching
 
 During my time at ETH Zürich I've helped teach the following courses:
