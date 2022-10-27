@@ -15,7 +15,7 @@ During my PhD I interned twice in Google: (1) in [Brain](https://research.google
 
 This is a list of the research papers I've published so far:
 
-* Audibert, A., Chen, Y., **Graur, D.**, Klimovic, A., Simsa, J. and Thekkath, C., *[A case for disaggregation of ML data processing](https://arxiv.org/abs/2210.14826)*, 2022, arXiv
+* Audibert, A., Chen, Y., **Graur, D.**, Klimovic, A., Simsa, J. and Thekkath, C., *[A Case for Disaggregation of ML Data Processing](https://arxiv.org/abs/2210.14826)*, 2022, arXiv
 * **Graur, D.**, Aymon, D., Kluser, D., Albrici, T., Thekkath, C. and Klimovic, A., *[Cachew: Machine Learning Input Data Processing as a Service](https://www.usenix.org/conference/atc22/presentation/graur)*, 2022, Proceedings of the USENIX Annual Technical Conference (ATC)
 * **Graur, D.**, Müller I., Proffitt M., Fourny G., Watts G. T., and Alonso G., *[Evaluating Query Languages and Systems for High-Energy Physics Data](https://arxiv.org/pdf/2104.12615.pdf)*, 2022, Proceedings of the VLDB Endowment
 * **Graur, D.**, Bruno, R. and Alonso, G., *[Specializing Generic Java Data Structures](https://dl.acm.org/doi/10.1145/3475738.3480718)*, 2021, 18th ACM International Conference on Managed Programming Languages & Runtimes
