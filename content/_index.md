@@ -6,18 +6,19 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpeg" alt="avatar">}}
 
-Hi and thanks for stopping by! My name is **Dan Graur**. I'm currently a 4th year PhD Student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) as part of the [Systems Group](https://systems.ethz.ch/) where I am advised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Prof. Ana Klimovic](https://anakli.inf.ethz.ch/). My main research interests lie in *Systems for Machine Learning* and *Databases*.
+Hi and thanks for stopping by! My name is **Dan Graur**. I'm currently a 5th (and final) year PhD Student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) as part of the [Systems Group](https://systems.ethz.ch/) where I am advised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Prof. Ana Klimovic](https://anakli.inf.ethz.ch/). My main research interests lie in *Systems for Machine Learning* and *Databases*.
 
 
-During my PhD I interned twice in Google: (1) in [Brain](https://research.google/teams/brain/) as part of the [Flax team](https://github.com/google/flax), and (2) in [TensorFlow](https://www.tensorflow.org/) as part of the [tf.Data team](https://www.tensorflow.org/guide/data). Prior to the PhD, I obtained my MSc in Computer Science from [TU Delft](https://www.tudelft.nl/en/) and [ETH Zurich](https://ethz.ch/en.html). At TU Delft I had the pleasure of working with [Prof. Jan Rellermeyer](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/jan-rellermeyer) for my MSc thesis. During my time at TU Delft I worked as a Research Assistant as part of the [Tribler research team](https://github.com/Tribler/tribler). Prior to this, I obtained my BSc in Computer Science from the [Technical University of Cluj-Napoca](https://www.utcluj.ro/en/). 
+During my PhD I interned three times in Google: (1) in [Brain](https://research.google/teams/brain/) as part of the [Flax team](https://github.com/google/flax) where I worked on a wrapper over Jax meant to ease Deep Learning research and development, (2) in [TensorFlow](https://www.tensorflow.org/) as part of the [tf.Data team](https://www.tensorflow.org/guide/data) where I worked on scalable and efficient ML data processing, and (3) as part of the [Systems Research Group](https://techsysinfra.google/research/) where I worked on generic, adaptive indexing methods for relational databases. Prior to the PhD, I obtained my MSc in Computer Science from [TU Delft](https://www.tudelft.nl/en/) and [ETH Zurich](https://ethz.ch/en.html) where I focused on Machine Learning and Distributed Systems. At TU Delft I had the pleasure of working with [Prof. Jan Rellermeyer](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/jan-rellermeyer) for my MSc thesis on gradient reduction methods in distributed ML training. During my time at TU Delft I worked as a Research Assistant as part of the [Tribler research team](https://github.com/Tribler/tribler). Prior to this, I obtained my BSc in Computer Science from the [Technical University of Cluj-Napoca](https://www.utcluj.ro/en/). See my [resume](resume.pdf) for more details.
 
 ## Research
 
 This is a list of the research papers I've published so far:
 
-* Audibert, A., Chen, Y., **Graur, D.**, Klimovic, A., Simsa, J. and Thekkath, C., *[A Case for Disaggregation of ML Data Processing](https://arxiv.org/abs/2210.14826)*, 2022, arXiv
+* Audibert, A., Chen, Y., **Graur, D.**, Klimovic, A., Simsa, J. and Thekkath, C., *[tf.data service: A Case for
+Disaggregating ML Input Data Processing](https://dl.acm.org/doi/abs/10.1145/3620678.3624666)*, 2023, 14th Symposium on Cloud Computing
 * **Graur, D.**, Aymon, D., Kluser, D., Albrici, T., Thekkath, C. and Klimovic, A., *[Cachew: Machine Learning Input Data Processing as a Service](https://www.usenix.org/conference/atc22/presentation/graur)*, 2022, Proceedings of the USENIX Annual Technical Conference (ATC)
-  * Featured in the [TRC Researcher Spotlight](https://sites.research.google/trc/spotlight/)
+  * **<span style="color:orange">Featured in the</span> [TRC Researcher Spotlight](https://sites.research.google/trc/spotlight/)**
 * **Graur, D.**, Müller I., Proffitt M., Fourny G., Watts G. T., and Alonso G., *[Evaluating Query Languages and Systems for High-Energy Physics Data](https://arxiv.org/pdf/2104.12615.pdf)*, 2022, Proceedings of the VLDB Endowment
 * **Graur, D.**, Bruno, R. and Alonso, G., *[Specializing Generic Java Data Structures](https://dl.acm.org/doi/10.1145/3475738.3480718)*, 2021, 18th ACM International Conference on Managed Programming Languages & Runtimes
 * **Graur, D.**, Aymon, D., Thekkath, C. and Klimovic, A., *Machine Learning Input Data Processing as a Service*, 2021, EuroSys Doctoral Workshop 2021
@@ -44,7 +45,7 @@ During my time at ETH Zürich I've helped teach the following courses:
 
 ## Things I Like to Do
 
-Playing guitar is one of my biggest hobbies. I've started playing in middle-school and haven't given it up since, although I've had my on-and-off periods with it. I also love endurance sports such as running, cycling and swimming.
+Playing guitar is one of my biggest hobbies. I have started playing in middle-school and haven't given it up since, although I've had my on-and-off periods with it. I also love endurance sports such as cycling, running, and swimming.
 
 ## Contact 
 

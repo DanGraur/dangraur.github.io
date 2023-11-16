@@ -4,21 +4,21 @@
     <title>About on Dan Graur</title>
     <link>https://dangraur.github.io/</link>
     <description>Recent content in About on Dan Graur</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dangraur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://dangraur.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://dangraur.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dangraur.github.io/contact/</guid>
-      <description>Email moc.liame@redlohecalp (copying the address won&amp;rsquo;t work well).
- Mailing Address  Dan Graur
+      <description>Email hc.zhte.fni@ruarg.nad (copying the address won&amp;rsquo;t work well).
+Mailing Address Dan Graur
 STF G 222
 Stampfenbachstrasse 114
 8092 Zürich
 Switzerland
-  Other  LinkedIn GitHub ETH Zurich Webpage  </description>
+Other LinkedIn GitHub ETH Zurich Webpage </description>
     </item>
-    
   </channel>
 </rss>
