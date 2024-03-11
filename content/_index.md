@@ -15,11 +15,12 @@ During my PhD I interned three times in Google: (1) in [Brain](https://research.
 
 This is a list of the research papers I've published so far:
 
+* **Graur, D.**, Röthlisberger, R., Jenny, A., Drozdowski, F., Konigsmark, C., Müller, I., and Alonso, G., *Addressing the Nested Data Processing Gap: JSONiq Queries on Snowflake through Snowpark*, 2024, IEEE 40th International Conference on Data Engineering (ICDE). (*to appear*)
 * Audibert, A., Chen, Y., **Graur, D.**, Klimovic, A., Simsa, J. and Thekkath, C., *[tf.data service: A Case for
 Disaggregating ML Input Data Processing](https://dl.acm.org/doi/abs/10.1145/3620678.3624666)*, 2023, 14th Symposium on Cloud Computing
 * **Graur, D.**, Aymon, D., Kluser, D., Albrici, T., Thekkath, C. and Klimovic, A., *[Cachew: Machine Learning Input Data Processing as a Service](https://www.usenix.org/conference/atc22/presentation/graur)*, 2022, Proceedings of the USENIX Annual Technical Conference (ATC)
   * **<span style="color:orange">Featured in the</span> [TRC Researcher Spotlight](https://sites.research.google/trc/spotlight/)**
-* **Graur, D.**, Müller I., Proffitt M., Fourny G., Watts G. T., and Alonso G., *[Evaluating Query Languages and Systems for High-Energy Physics Data](https://arxiv.org/pdf/2104.12615.pdf)*, 2022, Proceedings of the VLDB Endowment
+* **Graur, D.**, Müller I., Proffitt M., Watts G. T., and Alonso G., *[Evaluating Query Languages and Systems for High-Energy Physics Data](https://arxiv.org/pdf/2104.12615.pdf)*, 2022, Proceedings of the VLDB Endowment
 * **Graur, D.**, Bruno, R. and Alonso, G., *[Specializing Generic Java Data Structures](https://dl.acm.org/doi/10.1145/3475738.3480718)*, 2021, 18th ACM International Conference on Managed Programming Languages & Runtimes
 * **Graur, D.**, Aymon, D., Thekkath, C. and Klimovic, A., *Machine Learning Input Data Processing as a Service*, 2021, EuroSys Doctoral Workshop 2021
 * **Graur, D.**, Bruno, R., Bischoff, J., Rieser, M., Scherr, W., Hoefler, T. and Alonso, G., *[Hermes: Enabling efficient large-scale simulation in MATSim](https://www.sciencedirect.com/science/article/pii/S1877050921007158)*, 2021, Procedia Computer Science, 184, pp.635-641
