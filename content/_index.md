@@ -37,7 +37,7 @@ I've also helped develop and improve the *ADL Functionality Benchmarks Index*, a
 
 During my time at ETH Zürich I've helped teach the following courses:
 
-* Data Modeling and Databases - FS'23
+* Data Modeling and Databases - FS'23 & HS'24
 * Data Management Systems - (Head TA) HS'22
 * Information Retrieval - FS'22
 * Big Data - HS'20 & HS'21
