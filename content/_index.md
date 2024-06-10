@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me 
 
-{{< figure class="avatar" src="/avatar.jpeg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar.png" alt="avatar">}}
 
 Hi and thanks for stopping by! My name is **Dan Graur**. I'm currently a 5th year PhD Student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) as part of the [Systems Group](https://systems.ethz.ch/) where I am advised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Prof. Ana Klimovic](https://anakli.inf.ethz.ch/). My main research interests lie in *Systems for Machine Learning* and *Data Management*.
 
