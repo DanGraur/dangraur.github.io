@@ -15,7 +15,7 @@ During my PhD I interned three times in Google: (1) in [Brain](https://research.
 
 This is a list of the research papers I've published so far:
 
-* **Graur, D.**, Mraz, O., Li, M., Pourghannad, S., Thekkath, C. and Klimovic, A., *Pecan: Cost-Efficient ML Data Preprocessing with Automatic Transformation Ordering and Hybrid Placement*, 2024, Proceedings of the USENIX Annual Technical Conference (ATC)
+* **Graur, D.**, Mraz, O., Li, M., Pourghannad, S., Thekkath, C. and Klimovic, A., *[Pecan: Cost-Efficient ML Data Preprocessing with Automatic Transformation Ordering and Hybrid Placement](https://anakli.inf.ethz.ch/papers/pecan_atc24.pdf)*, 2024, Proceedings of the USENIX Annual Technical Conference (ATC)
 * **Graur, D.**, Röthlisberger, R., Jenny, A., Drozdowski, F., Konigsmark, C., Müller, I., and Alonso, G., *[Addressing the Nested Data Processing Gap: JSONiq Queries on Snowflake through Snowpark](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/674963/icde_snowflake_jsoniq.pdf?sequence=1&isAllowed=y)*, 2024, IEEE 40th International Conference on Data Engineering (ICDE)
 * Audibert, A., Chen, Y., **Graur, D.**, Klimovic, A., Simsa, J. and Thekkath, C., *[tf.data service: A Case for
 Disaggregating ML Input Data Processing](https://dl.acm.org/doi/abs/10.1145/3620678.3624666)*, 2023, 14th Symposium on Cloud Computing
