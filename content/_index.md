@@ -42,7 +42,7 @@ During my time at ETH Zürich I've helped teach the following courses:
 * Data Management Systems - (Head TA) HS'22
 * Information Retrieval - FS'22
 * Big Data - HS'20 & HS'21
-* Cloud Computing Architecture - FS'21
+* Cloud Computing Architecture - (Head TA) FS'21
 * Big Data for Engineers - FS'20
 
 ## Things I Like to Do
