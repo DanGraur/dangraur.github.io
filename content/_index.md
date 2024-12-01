@@ -6,7 +6,9 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.png" alt="avatar">}}
 
-Hi and thanks for stopping by! My name is **Dan Graur**. I'm currently a 5th year PhD Student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) as part of the [Systems Group](https://systems.ethz.ch/) where I am advised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Prof. Ana Klimovic](https://anakli.inf.ethz.ch/). My main research interests lie in *Systems for Machine Learning* and *Data Management*.
+Hi and thanks for stopping by! My name is **Dan Graur**. I'm a Software Engineer in Google DeepMind where I work on Gemini Multimodality.
+
+I also hold a PhD in Computer Science from [ETH Zürich](https://ethz.ch/en.html) where I was part of the [Systems Group](https://systems.ethz.ch/) under the mentorship of [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Prof. Ana Klimovic](https://anakli.inf.ethz.ch/). My main research interests were in *Systems for Machine Learning* and *Data Management*.
 
 
 During my PhD I interned three times in Google: (1) in [Brain](https://research.google/teams/brain/) as part of the [Flax team](https://github.com/google/flax) where I worked on a wrapper over Jax meant to ease Deep Learning research and development, (2) in [TensorFlow](https://www.tensorflow.org/) as part of the [tf.Data team](https://www.tensorflow.org/guide/data) where I worked on scalable and efficient ML data processing, and (3) as part of the [Systems Research Group](https://techsysinfra.google/research/) where I worked on generic, adaptive indexing methods for relational databases. Prior to the PhD, I obtained my MSc in Computer Science from [TU Delft](https://www.tudelft.nl/en/) and [ETH Zurich](https://ethz.ch/en.html) where I focused on Machine Learning and Distributed Systems. At TU Delft I had the pleasure of working with [Prof. Jan Rellermeyer](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/jan-rellermeyer) for my MSc thesis on gradient reduction methods in distributed ML training. During my time at TU Delft I worked as a Research Assistant as part of the [Tribler research team](https://github.com/Tribler/tribler). Prior to this, I obtained my BSc in Computer Science from the [Technical University of Cluj-Napoca](https://www.utcluj.ro/en/). See my [resume](resume.pdf) for more details.
@@ -44,10 +46,6 @@ During my time at ETH Zürich I've helped teach the following courses:
 * Big Data - HS'20 & HS'21
 * Cloud Computing Architecture - (Head TA) FS'21
 * Big Data for Engineers - FS'20
-
-## Things I Like to Do
-
-Playing guitar is one of my biggest hobbies. I have started playing in middle-school and haven't given it up since, although I've had my on-and-off periods with it. I also love endurance sports such as cycling, running, and swimming.
 
 ## Contact 
 
