@@ -1,3 +1,6 @@
+# [submodule "themes/researcher"]
+# 	path = themes/researcher
+# 	url = https://github.com/ojroques/hugo-researcher.git
 [submodule "themes/researcher"]
 	path = themes/researcher
-	url = https://github.com/ojroques/hugo-researcher.git
+	url = https://github.com/DanGraur/hugo-researcher.git
